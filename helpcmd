@@ -1,0 +1,2 @@
+docker build -t rasp_download_py .
+docker run -p 5000:5000 rasp_download_py
